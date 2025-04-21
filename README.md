@@ -2,7 +2,7 @@
 This repository contains data and source codes presented in Kawakubo et al. 2025.
 
 Reference:
-Possible origin and evolution of Cucumber mosaic virus and its satellite RNA.
+Time-measured phylogenetic analysis suggests that cucumber mosaic virus and its satellite RNA did not coevolve.
 
 Shusuke Kawakubo, Hangil Kim, Hanako Shimura, Chikara Masuta.
 
