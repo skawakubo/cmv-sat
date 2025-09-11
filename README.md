@@ -4,5 +4,5 @@
 
 ## Citation
 Bayesian phylogenetic analysis suggests that cucumber mosaic virus and its satellite RNA did not coevolve.
-Shusuke Kawakubo, Hangil Kim, Hanako Shimura & Chikara Masuta
+Shusuke Kawakubo, Hangil Kim, Hanako Shimura & Chikara Masuta.
 *Journal of General Plant Pathology*, 91, 298–303 (2025). https://doi.org/10.1007/s10327-025-01241-4
